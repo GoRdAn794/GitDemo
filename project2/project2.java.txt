@@ -1,4 +1,4 @@
 class bb{
 public static void main(String args[]){
-System.outPrintln("This is project 2);
+System.outPrintln("This is a new project 2);
 }
